@@ -12,6 +12,22 @@ header {
     text-align: center;
 }
 
+.project-box {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin: 15px 0;
+    background-color: #fafafa;
+}
+
+.project-box h3 {
+    margin-top: 0;
+}
+
+.project-box p {
+    margin-bottom: 0;
+}
+
+
 nav {
     background-color: #555;
     padding: 10px;
